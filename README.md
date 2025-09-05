@@ -1,12 +1,6 @@
-<img width="798" height="474" alt="image" src="https://github.com/user-attachments/assets/a40fa0e6-8b09-4eaa-93f8-20a4ccb4597c" />
-
-
 # Portfolio Template
 
-A sophisticated, museum-inspired portfolio template crafted for the **GFG Patna Workshop**. Features Louvre-level sophistication, designed for developers who appreciate clean, professional design.
-
-<img width="1220" height="687" alt="image" src="https://github.com/user-attachments/assets/585f9d5c-00e0-452c-9bce-938fad7fe387" />
-
+A sophisticated, museum-inspired portfolio template crafted by **Kaushal Prazapati**. Features Louvre-level sophistication, designed for developers who appreciate clean, professional design.
 
 ## ✨ Features
 
@@ -202,10 +196,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Created By
 
-**Ashutosh Gautam** for **GFG Patna Workshop**
+**Kaushal Prazapati**
 
-- GitHub: [@ashutoshgautams](https://github.com/ashutoshgautams)
-- Workshop: GeeksforGeeks Patna Chapter
+- GitHub: [@KaushalPrazapati](https://github.com/kaushalprazapati)
 
 ## 🙏 Acknowledgments
 
